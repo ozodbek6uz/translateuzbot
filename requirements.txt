@@ -1,0 +1,6 @@
+gpytranslate
+Pyrogram
+TgCrypto
+pytesseract
+Pillow
+
