@@ -16,7 +16,7 @@ A Telegram bot to download TikTok videos without any watermark.
 
 ### Host on Heroku
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/ozodbek6uz/tikuz5"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/ozodbek6uz/translateuzbot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
 Youtube: [Deployment Tutorial](https://youtu.be/LOK3lfJ9ous)<br>
 Demo: [JayBee TikTok Downloader](https://t.me/tiksaveuz_bot)
